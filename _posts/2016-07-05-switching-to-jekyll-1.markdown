@@ -12,7 +12,7 @@ My programming notes blog was first implemented in plain HTML.  To improve the m
 
 WordPress installations require frequent maintenance to stay secure.  The update process involves backing up the database and content, installing the latest version of WordPress, updating plugins, updating themes, and fixing any issues that arise.  I didn’t (and still don’t) have time to maintain a WordPress install, so eventually I stopped posting my notes.  I never stopped keeping notes.  That information is stuck in various note taking applications.
 
-I would like to once again share my programming notes, but I don’t want the headache of maintaining a CMS.  My main is a lightweight system with easy to manage templates to separate the content from the design.
+I would like to once again share my programming notes, but I don’t want the headache of maintaining a CMS.  My main requirement is a lightweight system with easy to manage templates to separate the content from the design.
 
 Jekyll looks like an ideal solution.  Benefits of a site built with Jekyll:
 - Content is separated from the design.
