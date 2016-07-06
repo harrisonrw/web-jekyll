@@ -15,13 +15,14 @@ WordPress installations require frequent maintenance to stay secure.  The update
 I would like to once again share my programming notes, but I don’t want the headache of maintaining a CMS.  My main requirement is a lightweight system with easy to manage templates to separate the content from the design.
 
 Jekyll looks like an ideal solution.  Benefits of a site built with Jekyll:
-- Content is separated from the design.
-- No database to maintain.
-- No security issues related to running a dynamic site.
-- Easy to view the web site locally.
-- Source Code Version Control.
-- Supports Markdown.
-- Code syntax highlighting.
+
+* Content is separated from the design.
+* No database to maintain.
+* No security issues related to running a dynamic site.
+* Easy to view the web site locally.
+* Source Code Version Control.
+* Supports Markdown.
+* Code syntax highlighting.
 
 This is my first post with Jekyll.  The site is currently using the basic Jekyll design.  I’ll be making a series of posts to document each step of customizing the site.  The source code for the site is on [GitHub][my-github], so please check it out.
 
