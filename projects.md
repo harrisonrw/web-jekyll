@@ -9,6 +9,9 @@ images:
   - image_path: /projects/img/speechcards.png
     title: Speech Cards
     link: /projects/speech-cards/
+  - image_path: /projects/img/beat-tracker.png
+    title: Beat Tracker
+    link: /projects/beat-tracker/
   - image_path: /projects/img/liftup.png
     title: Lift Up
     link: /projects/lift-up/ 
