@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Robert Harrison and I am a software developer.  I provide iOS app development services through my company, [RWH Technology, LLC][rwhtechnology].  I can assist you with idea refinement, design, programming, testing and submitting to the App Store.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I have over 10 years experience developing software in the Customer Interaction Management, Environmental Engineering, Petroleum Engineering, Speech Language Pathology and Higher-Education fields. For the past 4.5 years I have been developing iOS apps.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I graduated from the [University of Regina][UofR] with a B.Sc. degree majoring in Computer Science and a M.A.Sc. degree majoring in Electronic Systems Engineering.
+
+I reside in San Diego, California with my wife, who is a Speech-Language Pathologist. Together, we develop apps for helping children improve their speech and language skills.
+
+In my spare time, I enjoy stand up paddle boarding, hiking, and cooking.
+
+[rwhtechnology]: http://rwhtechnology.com
+[UofR]: http://www.uregina.ca
