@@ -7,7 +7,6 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
@@ -25,6 +24,13 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+
+          {% if site.linkedin %}
+          <li>
+            {% include icon-linkedin.html url=site.linkedin %}
+          </li>
+          {% endif %}
+
         </ul>
       </div>
 
