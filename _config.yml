@@ -12,9 +12,10 @@ description: > # this means to ignore newlines until "baseurl:"
   San Diego based software developer specializing in iOS.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://robertharrison.ca"
+
 twitter_username: robwh99
 github_username:  harrisonrw
-linkedin: https://www.linkedin.com/in/robert-harrison-6a457a2b
+linkedin_username: robert-harrison-6a457a2b
 
 # Build settings
 markdown: kramdown
@@ -23,6 +24,12 @@ kramdown:
   input: GFM
 
 theme: minima
+
+#minima:
+#  social_links:
+#    twitter: robwh99
+#    github: harrisonrw
+    #linkedin: robert-harrison-6a457a2b
 
 plugins:
   - jekyll-feed
