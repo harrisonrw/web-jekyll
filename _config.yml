@@ -25,14 +25,12 @@ kramdown:
 
 theme: minima
 
-#minima:
-#  social_links:
-#    twitter: robwh99
-#    github: harrisonrw
-    #linkedin: robert-harrison-6a457a2b
-
 plugins:
   - jekyll-feed
+
+header_pages:
+  - projects.md
+  - about.md
 
 # Google Services
 google_analytics: UA-40538920-1
