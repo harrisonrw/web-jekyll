@@ -12,7 +12,7 @@ I graduated from the [University of Regina][UofR] with a B.Sc. degree majoring i
 
 I reside in San Diego, California with my wife, who is a Speech-Language Pathologist. Together, we develop apps for helping children improve their speech and language skills.
 
-In my spare time, I enjoy stand up paddle boarding, hiking, and cooking.
+In my spare time, I enjoy stand up paddle boarding, hiking, skiing and cooking.
 
 [rwhtechnology]: http://rwhtechnology.com
 [UofR]: http://www.uregina.ca
