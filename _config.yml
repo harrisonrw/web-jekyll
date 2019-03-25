@@ -9,7 +9,7 @@
 title: Robert Harrison
 email: harrisonrw@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  San Diego based software developer specializing in iOS.
+  San Diego based software developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://robertharrison.ca"
 
