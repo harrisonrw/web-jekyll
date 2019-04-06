@@ -45,7 +45,7 @@ Utterances are all the ways a person could say or request an intent. A few examp
 - How do I qualify for admission?
 - admissions qualifications
 
-Defining the utterances is probably the most time consuming task of creating a chat bot. It is well worth the effort, as the more utterances, the better the [national language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing). Document the utterances in a spreadsheet.
+Defining the utterances is probably the most time consuming task of creating a chat bot. It is well worth the effort, as the more utterances, the better the [natural language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing). Document the utterances in a spreadsheet.
 
 ## Conclusion
 Now that you have mapped out your uses cases, determined where intents can be used and defined the utterances, you are now ready to implement your chatbot. For details on how to implement your chatbot with Salesforce Einstein, be sure to check out the [TrailHeads](https://trailhead.salesforce.com/en/content/learn/modules/service_bots_basics/learn-about-einstein-bots). 
